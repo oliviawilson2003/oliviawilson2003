@@ -1,16 +1,37 @@
-## Hi there 👋
+<br />
 
-<!--
-**oliviawilson2003/oliviawilson2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JS
+class Oliviawilson {
+  constructor() {
+    this.name = "Olivia Wilson";
+    this.profile = ["Software Engineer", "Javascript Developer"];
+    this.tech = [
+      "Javascript",
+      "Typescript",
+      `Python`,
+      { "Framework/Library": ["React.js", "Next.js"] },
+    ];
+  }
 
-Here are some ideas to get you started:
+  get informations() {
+    const today = new Date();
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    return (
+      `My name is ${this.name} and I'm focusing on Full Stack development (sometimes also A.I.). \n` +
+      `I have an ${this.profile[0]} and ${this.profile[1]} profile. \n` +
+      `Technologies I use the most: ${this.tech[0]}, ${this.tech[1]} e ${this.tech[2]}. \n` +
+      `My differential is in the creativity to solve problems in an innovative and efficient way. \n\n`      
+    );
+  }
+}
+
+const Me = new Oliviawilson();
+console.log(Me.informations);
+```
+<br />
+
+<div>
+
+<br />
+
+</div>
