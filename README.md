@@ -1,20 +1,7 @@
 <br />
+<h3><a href="https://www.marvellousadventures.com?utm_source=github_sh&utm_medium=github_sh&utm_campaign=github_sh">My Blog</a></h3>
+<h3><a href="https://www.casualminimart.com/?utm_source=github_sh&utm_medium=github_sh&utm_campaign=github_sh">Another Blog</a></h3>
 
-```JS
-class Oliviawilson {
-  constructor() {
-    this.name = "Olivia Wilson";
-    this.profile = ["Software Engineer", "Javascript Developer"];
-    this.tech = [
-      "Javascript",
-      "Typescript",
-      `Python`,
-      { "Framework/Library": ["React.js", "Next.js"] },
-    ];
-  }
-
-  get informations() {
-    const today = new Date();
 
     return (
       `My name is ${this.name} and I'm focusing on Full Stack development (sometimes also A.I.). \n` +
@@ -25,13 +12,3 @@ class Oliviawilson {
   }
 }
 
-const Me = new Oliviawilson();
-console.log(Me.informations);
-```
-<br />
-
-<div>
-
-<br />
-
-</div>
