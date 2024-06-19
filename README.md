@@ -2,10 +2,10 @@
 <h3><a href="https://www.marvellousadventures.com?utm_source=github_sh&utm_medium=github_sh&utm_campaign=github_sh">My Blog</a></h3>
 <h3><a href="https://www.casualminimart.com/?utm_source=github_sh&utm_medium=github_sh&utm_campaign=github_sh">Another Blog</a></h3>
 <b>Recent Blog</b> : <br>
-<a href="https://www.casualminimart.com/fashion/steal-the-look-10-trendy-stylish-outfits-inspired-by-kylie-jenner?utm_source=github_sh&utm_medium=social_sh&utm_campaign=seo-summer-boost">Steal the Look: 10 Trendy & Stylish Outfits Inspired by Kylie Jenner
+<h3><a href="https://www.casualminimart.com/fashion/steal-the-look-10-trendy-stylish-outfits-inspired-by-kylie-jenner?utm_source=github_sh&utm_medium=social_sh&utm_campaign=seo-summer-boost">Steal the Look: 10 Trendy & Stylish Outfits Inspired by Kylie Jenner
 </a></h3>
 <img src="https://www.casualminimart.com/featured/2024/06/outfits-inspired-by-kylie-jenner.webp" alt="Steal the Look: 10 Trendy & Stylish Outfits Inspired by Kylie Jenner" width="700">
-<a href="https://www.marvellousadventures.com/celebrities/iman-vellani-10-facts-about-the-marvel-actress-you-need-to-know?utm_source=github_sh&utm_medium=social_sh&utm_campaign=seo-summer-boost">Iman Vellani: 10 facts about the Marvel actress you need</a></h3>
+<h3><a href="https://www.marvellousadventures.com/celebrities/iman-vellani-10-facts-about-the-marvel-actress-you-need-to-know?utm_source=github_sh&utm_medium=social_sh&utm_campaign=seo-summer-boost">Iman Vellani: 10 facts about the Marvel actress you need</a></h3>
 <img src="https://www.marvellousadventures.com/featured/2024/06/iman-vellani-10-facts-about-the-marvel-actress-you-need-to-know.webp" alt="Iman Vellani: 10 facts about the Marvel actress you need" width="700">
 
 
