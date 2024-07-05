@@ -31,7 +31,7 @@
   <img src="https://i.postimg.cc/hPjYWzYG/diy-boudoir-photos-lying-on-bed-flowers.jpg" alt="Post Image" class="post-image" style="width:50%;">
   <h2 class="post-title">Own Your Curves: 10 Boudoir Photography Ideas</h2>
   <p class="post-content">While there are many great examples of traditional boudoir photography, boudoir photography with size and curves is often overlooked.</p>
-  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link">View Source Code on GitHub</a>
+  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link">View Post on kickyapparel.com</a>
 </div>
 <ul>
 <li><strong><a href="https://www.yourquorum.com/blog/apps/best-free-video-editing-apps-for-instagram-reels?utm_source=github_sh&utm_medium=banner&utm_campaign=seo-summer-boost">Best Free Video Editing Apps for Instagram Reels
