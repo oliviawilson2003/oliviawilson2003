@@ -27,20 +27,27 @@
 <p data-sourcepos="28:1-28:134">I'm always learning and growing in the world of digital marketing and web design. Let's connect and build something amazing together!</p>
 </div>
 <h3><strong>My Recents Blog:</strong></h3>
+<div style="display: inline-flex;">
 <div class="post-container">
-  <img src="https://i.postimg.cc/hPjYWzYG/diy-boudoir-photos-lying-on-bed-flowers.jpg" alt="Post Image" class="post-image" style="width:50%;">
-  <h2 class="post-title">Own Your Curves: 10 Boudoir Photography Ideas</h2>
-  <p class="post-content">While there are many great examples of traditional boudoir photography, boudoir photography with size and curves is often overlooked.</p>
-  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link">View Post on kickyapparel.com</a>
+  <img src="https://i.postimg.cc/3xrmbmfL/B11-1024x683.jpg" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">Own Your Curves: 10 Boudoir Photography Ideas</h3>
+  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on kickyapparel.com</strong></a>
+  <div>&nbsp;</div>
 </div>
-<ul>
-<li><strong><a href="https://www.yourquorum.com/blog/apps/best-free-video-editing-apps-for-instagram-reels?utm_source=github_sh&utm_medium=banner&utm_campaign=seo-summer-boost">Best Free Video Editing Apps for Instagram Reels
-</a></strong></li>
-<li><strong><a href="https://www.casualminimart.com/fashion/how-to-restyle-lingerie-into-everyday-outfits?utm_source=github_sh&utm_medium=banner&utm_campaign=seo-summer-boost">How to Restyle Lingerie into Everyday Outfits</a></strong></li>
-<li><strong><a href="https://www.marvellousadventures.com/style/the-best-dressed-stars-of-the-2024-met-gala?utm_source=github_sh&utm_medium=banner&utm_campaign=seo-summer-boost">The Best Dressed Stars Of The 2024 Met Gala
-</a></strong></li>
-<li><strong><a href="https://www.yourquorum.com/uploads/featured/1970/01/1719229650_9375ddaeac461550e18b.webp?utm_source=github_sh&utm_medium=social-banner&utm_campaign=seo-summer-boost">127.0.0.1:62893: Understanding and Fixing Common Errors
-</a></strong></li>
+<div class="post-container">
+  <img src="https://www.marvellousadventures.com/featured/2024/06/Scarlett-Johansson-sexy.webp" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">Scarlett Johansson : Best 10 Photos of The Hollywood Hottie</h3>
+  <a href="https://www.marvellousadventures.com/celebrities/scarlett-johansson-best-10-photos-of-the-hollywood-hottie?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
+  <div>&nbsp;</div>
+</div>
+<div class="post-container">
+  <img src="https://www.marvellousadventures.com/featured/2024/04/kylie-jenner-swimsuit-poses-nm.webp" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">Kylie Jenner Wears A String Bikini Decorated With Rhinestones</h3>
+  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
+  <div>&nbsp;</div>
+</div>
+</div>
+<br><br>
 
 </ul>
 
