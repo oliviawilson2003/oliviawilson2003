@@ -35,9 +35,9 @@
   <div>&nbsp;</div>
 </div>
 <div class="post-container">
-  <img src="https://www.marvellousadventures.com/featured/2024/06/Scarlett-Johansson-sexy.webp" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Scarlett Johansson : Best 10 Photos of The Hollywood Hottie</h3>
-  <a href="https://www.marvellousadventures.com/celebrities/scarlett-johansson-best-10-photos-of-the-hollywood-hottie?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
+  <img src="https://www.marvellousadventures.com/featured/2024/07/kim-and-khloe-kardashian-s-bold-white-party-dresses.webp" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">Kim And Khloe Kardashian's Bold White Party Dresses</h3>
+  <a href="https://www.marvellousadventures.com/celebrities/kim-and-khloe-kardashian-s-bold-white-party-dresses?utm_source=github_sh&utm_medium=banner&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
   <div>&nbsp;</div>
 </div>
 <div class="post-container">
