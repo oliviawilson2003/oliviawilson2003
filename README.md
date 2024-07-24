@@ -29,6 +29,12 @@
 <h3><strong>My Recents Blog:</strong></h3>
 <div style="display: inline-flex;">
 <div class="post-container">
+  <img src="https://www.casualminimart.com/featured/2024/03/sexy-greek-goddess-1.webp" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">Hottest Trends in Sexy Greek Goddess Costumes for 2024</h3>
+  <a href="https://www.casualminimart.com/fashion/hottest-trends-in-sexy-greek-goddess-costumes-for-2024?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on casualminimart.com</strong></a>
+  <div>&nbsp;</div>
+</div>
+  <div class="post-container">
   <img src="https://i.postimg.cc/3xrmbmfL/B11-1024x683.jpg" alt="Post Image" class="post-image" style="width:30%;">
   <h3 class="post-title" style="font-size: smaller;">Own Your Curves: 10 Boudoir Photography Ideas</h3>
   <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on kickyapparel.com</strong></a>
