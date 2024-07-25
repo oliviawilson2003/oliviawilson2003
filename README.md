@@ -17,7 +17,7 @@
 <p data-sourcepos="18:1-18:17"><strong>Feel free to:</strong></p>
 <ul data-sourcepos="20:1-21:18">
 <li data-sourcepos="20:1-20:100"><strong>Browse the code:</strong> I encourage you to explore the code behind my projects and learn from them.</li>
-<li data-sourcepos="21:1-21:18"><strong>Reach out:</strong> If you have any questions or want to collaborate, feel free to connect with me on&nbsp;[<strong><a href="https://www.yourquorum.com/user/gianna-eleanor?utm_source=github_sh&amp;utm_medium=medium_sh&amp;utm_campaign=medium_sh">YourQuorum</a></strong>]</li>
+<li data-sourcepos="21:1-21:18"><strong>Reach out:</strong> If you have any questions or want to collaborate, feel free to connect with me on&nbsp;[<strong><a href="https://www.yourquorum.com/user/olivia-wilson?utm_source=github_sh&amp;utm_medium=medium_sh&amp;utm_campaign=medium_sh">YourQuorum</a></strong>]</li>
 </ul>
 <p data-sourcepos="23:1-23:17"><strong>Stay Updated:</strong></p>
 <ul data-sourcepos="25:1-27:0">
