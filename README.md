@@ -14,6 +14,9 @@
 <li data-sourcepos="15:1-15:44"><strong>Design:</strong> Figma, Adobe Photoshop, Sketch</li>
 <li data-sourcepos="16:1-17:0"><strong>Marketing Tools:</strong> Google Analytics, Mailchimp, Social Media Management Platforms</li>
 </ul>
+<h3>Recent Issues (Fixed)</h3>
+<li data-sourcepos="21:1-21:18"><a href="https://www.yourquorum.com/user/olivia-wilson?utm_source=github_sh&amp;utm_medium=medium_sh&amp;utm_campaign=medium_sh"> invalid <strong>SSL</strong> Certificate Error (code 526) </a></li>
+</ul>
 <p data-sourcepos="18:1-18:17"><strong>Feel free to:</strong></p>
 <ul data-sourcepos="20:1-21:18">
 <li data-sourcepos="20:1-20:100"><strong>Browse the code:</strong> I encourage you to explore the code behind my projects and learn from them.</li>
@@ -25,6 +28,7 @@
 
 </ul>
 <p data-sourcepos="28:1-28:134">I'm always learning and growing in the world of digital marketing and web design. Let's connect and build something amazing together!</p>
+
 </div>
 <h3><strong>My Recents Blog:</strong></h3>
 <div style="display: inline-flex;">
