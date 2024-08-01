@@ -52,18 +52,7 @@
   <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on kickyapparel.com</strong></a>
   <div>&nbsp;</div>
 </div>
-<div class="post-container">
-  <img src="https://www.marvellousadventures.com/featured/2024/07/kim-and-khloe-kardashian-s-bold-white-party-dresses.webp" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Kim And Khloe Kardashian's Bold White Party Dresses</h3>
-  <a href="https://www.marvellousadventures.com/celebrities/kim-and-khloe-kardashian-s-bold-white-party-dresses?utm_source=github_sh&utm_medium=banner&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
-  <div>&nbsp;</div>
-</div>
-<div class="post-container">
-  <img src="https://www.marvellousadventures.com/featured/2024/04/kylie-jenner-swimsuit-poses-nm.webp" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Kylie Jenner Wears A String Bikini Decorated With Rhinestones</h3>
-  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
-  <div>&nbsp;</div>
-</div>
+
 </div>
 <br><br>
 
