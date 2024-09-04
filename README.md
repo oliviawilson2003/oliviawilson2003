@@ -40,6 +40,12 @@
   <div>&nbsp;</div>
 </div>
   <div class="post-container">
+  <img src="https://i.postimg.cc/MT2k0tLy/womens-witch-costume.jpg" alt="Post Image" class="post-image" style="width:30%;">
+  <h3 class="post-title" style="font-size: smaller;">20+ Easy College Halloween Costumes</h3>
+  <a href="https://www.collectingtrends.com/fashion/college-halloween-costumes?utm_source=github_sh&utm_medium=banner&utm_campaign=summer-boost" class="github-link"><strong>View Post on collectingtrends.com</strong></a>
+  <div>&nbsp;</div>
+</div>
+  <div class="post-container">
   <img src="https://www.casualminimart.com/featured/2024/03/sexy-greek-goddess-1.webp" alt="Post Image" class="post-image" style="width:30%;">
   <h3 class="post-title" style="font-size: smaller;">Hottest Trends in Sexy Greek Goddess Costumes for 2024</h3>
   <a href="https://www.casualminimart.com/fashion/hottest-trends-in-sexy-greek-goddess-costumes-for-2024?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on casualminimart.com</strong></a>
