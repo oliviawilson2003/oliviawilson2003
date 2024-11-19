@@ -15,7 +15,6 @@
 <li data-sourcepos="16:1-17:0"><strong>Marketing Tools:</strong> Google Analytics, Mailchimp, Social Media Management Platforms</li>
 </ul>
 <h3>Recent Issues (Fixed)</h3>
-<li data-sourcepos="21:1-21:18"><a href="https://www.yourquorum.com/user/olivia-wilson?utm_source=github_sh&amp;utm_medium=medium_sh&amp;utm_campaign=medium_sh"> invalid <strong>SSL</strong> Certificate Error (code 526) </a></li>
 </ul>
 <p data-sourcepos="18:1-18:17"><strong>Feel free to:</strong></p>
 <ul data-sourcepos="20:1-21:18">
@@ -30,32 +29,6 @@
 </ul>
 <p data-sourcepos="28:1-28:134">I'm always learning and growing in the world of digital marketing and web design. Let's connect and build something amazing together!</p>
 
-</div>
-<h3><strong>My Recents Blog:</strong></h3>
-<div style="display: inline-flex;">
-<div class="post-container">
-  <img src="https://www.marvellousadventures.com/featured/2024/07/Kim-Kardashian-Swimwear-Photoshoot.webp" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Kim Kardashian Swimwear Photoshoot</h3>
-  <a href="https://www.marvellousadventures.com/top-story/kim-kardashian-swimwear-photoshoot?utm_source=github_sh&utm_medium=banner&utm_campaign=seo-summer-boost" class="github-link"><strong>View Post on marvellousadventures.com</strong></a>
-  <div>&nbsp;</div>
-</div>
-  <div class="post-container">
-  <img src="https://i.postimg.cc/MT2k0tLy/womens-witch-costume.jpg" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">20+ Easy College Halloween Costumes</h3>
-  <a href="https://www.collectingtrends.com/fashion/college-halloween-costumes?utm_source=github_sh&utm_medium=banner&utm_campaign=summer-boost" class="github-link"><strong>View Post on collectingtrends.com</strong></a>
-  <div>&nbsp;</div>
-</div>
-  <div class="post-container">
-  <img src="https://www.casualminimart.com/featured/2024/03/sexy-greek-goddess-1.webp" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Hottest Trends in Sexy Greek Goddess Costumes for 2024</h3>
-  <a href="https://www.casualminimart.com/fashion/hottest-trends-in-sexy-greek-goddess-costumes-for-2024?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on casualminimart.com</strong></a>
-  <div>&nbsp;</div>
-</div>
-  <div class="post-container">
-  <img src="https://i.postimg.cc/3xrmbmfL/B11-1024x683.jpg" alt="Post Image" class="post-image" style="width:30%;">
-  <h3 class="post-title" style="font-size: smaller;">Own Your Curves: 10 Boudoir Photography Ideas</h3>
-  <a href="https://www.kickyapparel.com/lifestyle/own-your-curves-10-boudoir-photography-ideas-and-poses-for-plus-size-women?utm_source=github_sh&utm_medium=banner_sh&utm_campaign=summer-boost" class="github-link"><strong>View Post on kickyapparel.com</strong></a>
-  <div>&nbsp;</div>
 </div>
 
 </div>
