@@ -4,10 +4,6 @@
   <h3>Join The Conversation : <a href="https://www.yourquorum.com/question/can-ai-be-truly-creative-or-just-a-variation-of-what-already-exists?utm_source=github_sh&utm_medium=social&utm_campaign=summer-seo">[ What’s the future of human-AI collaboration?]</a>
 </h3>
 
-
-<h1>Click Here TO Watch : <a href="https://www.youtube.com/embed/z_ldKxAs_Ys">[ My Youtube ]</a></h1>
-
-
 <p data-sourcepos="5:1-5:26"><strong>What you'll find here:</strong></p>
 <ul data-sourcepos="7:1-7:77">
 <li data-sourcepos="7:1-7:77"><strong>Websites &amp; Landing Pages:</strong> Explore some of the websites and landing pages I've designed and developed.</li>
