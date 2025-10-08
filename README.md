@@ -1,7 +1,7 @@
 <div class="markdown markdown-main-panel" dir="ltr">
 <h2 class="" data-sourcepos="1:1-1:13">Hi there 👋!</h2>
 <p data-sourcepos="3:1-3:144">I'm Olivia Wilson,Dubai Based Software Engineer. This repository is a collection of my projects and code snippets, showcasing my skills and passion for creating engaging web experiences. <strong> DSA Roadmap:</strong> <a href="https://www.yourquorum.com/blog/programming/learn-data-structures-and-algorithms?utm_source=github_sh&utm_medium=banner&utm_campaign=summer-boost">[A to Z Guide to Learn DSA]</a></p>, <strong> Interview Preperation React JS:</strong> <a href="https://www.yourquorum.com/blog/programming/testdome-react-js-questions?utm_source=github_sh&utm_medium=social&utm_campaign=summer-seo">[React Js Interview Questions]</a></p>
-  <h3>Join The Conversation : <a href="https://www.yourquorum.com/question/can-ai-be-truly-creative-or-just-a-variation-of-what-already-exists?utm_source=github_sh&utm_medium=social&utm_campaign=summer-seo">[ What’s the future of human-AI collaboration?]</a>
+  <h3>Must Read : <a href="https://www.yourquorum.com/blog/tech/tired-of-chatgpt-not-giving-you-good-answers-here-are-50-prompts-that-actually-work?utm_source=github_sh&utm_medium=social&utm_campaign=summer-seo">[ 50 of the most powerful ChatGPT prompts for marketing strategy]</a>
 </h3>
 
 <p data-sourcepos="5:1-5:26"><strong>What you'll find here:</strong></p>
